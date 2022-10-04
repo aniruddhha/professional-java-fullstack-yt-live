@@ -15,9 +15,9 @@ Features of these Live Sessions are as follows
 
 ## Important Links
 
-- 🔗 Youtube Playlist: https://youtube.com/playlist?list=PLSJ7Ey1xqbFaXDEscoueLEpIAftxxyPN_
-- 🔗 Subscribe To Channel: https://www.youtube.com/c/AniruddhaKudalkar?sub_confirmation=1
-- 🔗 Discord Channel: https://discord.gg/NgynQuSvqK
+- [🔗 Youtube Playlist](https://youtube.com/playlist?list=PLSJ7Ey1xqbFaXDEscoueLEpIAftxxyPN_)
+- [🔗 Subscribe To Channel](https://www.youtube.com/c/AniruddhaKudalkar?sub_confirmation=1)
+- [🔗 Discord Channel](https://discord.gg/NgynQuSvqK)
 
 ## 🔴 Livestream Links
 
