@@ -1,8 +1,8 @@
-## Java Fullstack Course : Youtube Live Sessions
+## Java Fullstack Course : Youtube 🔴 Live Sessions
 
 Dear Learners,
 
-I am starting an initiative of going (#youtube) 🔴 live everyday for conducting sessions on Professional Java Full Stack Developer Course.  
+I am starting an initiative of going (#youtube) live everyday for conducting sessions on Professional Java Full Stack Developer Course.  
 
 Features of these Live Sessions are as follows
 - 👉 Daily Live Sessions ⏰ 06:30 PM to 07:30 PM IST
