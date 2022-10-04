@@ -13,9 +13,11 @@ Features of these Live Sessions are as follows
 - 👉 Whatever codes are written, all will be shared in github repository 
 - 👉 Session will be fully interactive, join the discord channel. 
 
-🔗 Youtube Playlist: https://youtube.com/playlist?list=PLSJ7Ey1xqbFaXDEscoueLEpIAftxxyPN_
-🔗 Subscribe To Channel: https://www.youtube.com/c/AniruddhaKudalkar?sub_confirmation=1
-🔗 Discord Channel: https://discord.gg/NgynQuSvqK
+## Important Links
+
+- 🔗 Youtube Playlist: https://youtube.com/playlist?list=PLSJ7Ey1xqbFaXDEscoueLEpIAftxxyPN_
+- 🔗 Subscribe To Channel: https://www.youtube.com/c/AniruddhaKudalkar?sub_confirmation=1
+- 🔗 Discord Channel: https://discord.gg/NgynQuSvqK
 
 ## 🔴 Livestream Links
 
