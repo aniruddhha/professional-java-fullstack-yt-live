@@ -24,4 +24,4 @@ Following table gives you links for past live streams
 |1| [Git Basics 1](https://youtu.be/wmXqtK3f9TU) | 22 Sep 2022 |
 |2| [Git Basics 2](https://youtu.be/-9YQyClwbQA) | 28 Sep 2022 |
 |3| [Git Basics 3](https://youtu.be/R1Xatu6t9Ew) | 29 Sep 2022 |
-|4| [Git Basics 4](https://youtu.be/M94aiCgsFwI) | 29 Sep 2022 |
+|4| [Git Basics 4](https://youtu.be/M94aiCgsFwI) | 03 Oct 2022 |
